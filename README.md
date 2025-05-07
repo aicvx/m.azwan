@@ -1,6 +1,6 @@
 # 📊 Data Analysis Portfolio
 
-Welcome to my data analysis portfolio! This repository showcases beginner-friendly projects I've completed as I build my skills in data analytics, with a focus on tools like **Excel, SQL, Power BI**, and **Python**.
+Welcome to my data analysis portfolio! This repository showcases my past work and personal projects as I develop my skills in data analytics, with a focus on tools such as **Excel**, **SQL**, **Power BI**, and **Python**.
 
 ---
 
