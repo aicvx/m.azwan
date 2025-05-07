@@ -6,7 +6,7 @@ Welcome to my data analysis portfolio! This repository showcases my past work an
 
 ## 🔍 About Me
 
-Hi! I'm an aspiring data analyst passionate about turning raw data into actionable insights. I'm currently focused on building my analytical foundation with hands-on projects in business and financial analysis.
+Hi! I'm an Mohammad Azwan, a data analyst passionate about turning raw data into actionable insights. I'm currently focused on building my analytical foundation with hands-on projects in business and financial analysis.
 
 ---
 
